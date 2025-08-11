@@ -1,5 +1,5 @@
 {
-  "name": "bing-cn-mcp",
+  "name": "@iflow-mcp/bing-cn-mcp",
   "version": "1.0.1",
   "description": "MCP 服务器，提供中文必应搜索结果抓取和网页内容抓取功能，支持中文搜索",
   "main": "build/index.js",
